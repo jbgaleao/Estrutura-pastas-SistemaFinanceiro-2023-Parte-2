@@ -8,27 +8,27 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\valdir.silva\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\jbgal\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETO_FINANCEIRO\\PROJETO_FINANCEIRO_AULA1\\Financeiro_2023 - parte1\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\jbgal\\Source\\Repos\\jbgaleao\\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\PROJETO_FINANCEIRO\\PROJETO_FINANCEIRO_AULA1\\Financeiro_2023 - parte1\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\valdir.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETO_FINANCEIRO\\PROJETO_FINANCEIRO_AULA1\\Financeiro_2023 - parte1\\Entities\\obj\\",
+      "projectPath": "C:\\Users\\jbgal\\Source\\Repos\\jbgaleao\\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\jbgal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jbgal\\Source\\Repos\\jbgaleao\\Estrutura-pastas-SistemaFinanceiro-2023-Parte-2\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\valdir.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\jbgal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
